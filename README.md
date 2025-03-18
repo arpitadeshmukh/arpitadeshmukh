@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Arpita Deshmukh</h1>
 
 <p align="center">
   <a href="https://github.com/arpitadeshmukh"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers"></a>
